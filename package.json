@@ -8,7 +8,7 @@
     "langchain": "^0.0.203",
     "llamaindex": "^0.0.38",
     "pdf-parse": "^1.1.1",
-    "pdfjs-dist": "^4.0.269",
+    "pdfjs-dist": "^4.4.168",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
